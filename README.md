@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Linah 👋
 
-<!--
-**linah-yusufu/Linah-Yusufu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an operations professional and M.S. in Management (Business Analytics) student at George Mason University, interested in using data to improve operations, reporting, and decision-making.
 
-Here are some ideas to get you started:
+My background includes operations administration, performance reporting, process coordination, and organizational support. I'm currently building my analytics portfolio through academic and independent projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Areas of Interest
+
+- Operations & Program Analytics
+- Project & Operations Management
+- Program and Grants Operations
+- Data Analysis & Reporting
+- Process Improvement
+
+## Tools
+
+**Currently using:** Excel, Python, R, CRM systems  
+**Currently developing:** SQL, Power BI
+
+## Featured Projects
+
+### Virginia HHS Grant Portfolio & Funding Analysis — FY2025
+**Independent Project | Python**
+
+Analysis of FY2025 HHS federal assistance transactions for Virginia recipients, focused on portfolio concentration, funding activity, data quality, and management reporting.
+
+*Project repository coming soon.*
+
+### AI, Human & Combined Evaluation Methods
+**Academic Group Project | R**
+
+George Mason University course project analyzing AI, human, and combined hiring evaluation methods against a skill-based benchmark using statistical analysis and logistic regression.
+
+*Project repository coming soon.*
+
+## Connect With Me
+
+[LinkedIn](https://linkedin.com/in/linah-yusufu)

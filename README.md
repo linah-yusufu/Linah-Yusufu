@@ -15,7 +15,7 @@ My background includes operations administration, performance reporting, process
 ## Tools
 
 **Currently using:** Excel, Python, R, CRM systems  
-**Currently developing:** SQL, Power BI
+**Currently developing:** SQL, Power BI 
 **Coursework exposure:** Tableau, Qualtrics
 
 ## Featured Projects
